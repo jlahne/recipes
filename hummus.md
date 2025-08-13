@@ -2,6 +2,6 @@
 ## Ingredients
 * chickpeas
 * lemon
-* tehina
+* tahini
 * salt
 ## Instructions
