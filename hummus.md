@@ -1,6 +1,6 @@
 # Hummus
 ## Ingredients
-* olive oil
+* virgin olive oil
 * chickpeas
 * lemon
 * tahini
