@@ -5,4 +5,4 @@
 * sea salt
 ## Instructions
 * peel the avocadoes
-* squeeze lime into the avocao
+* squeeze lime into the avocado
